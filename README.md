@@ -7,7 +7,7 @@ The FT_Printf function as well as the get_next_line function is included in my l
 
 In the following pdf you can find the project requirements as specified by 42 campus: [README_FT_PRINTF.pdf](https://github.com/Alvicina/FT_PRINTF/files/15310007/README_FT_PRINTF.pdf)
 
-The following snapshot if proof that the project was succesfully done:
+The following snapshot is proof that the project was succesfully done:
 
 <img width="1009" alt="Captura de pantalla 2024-09-02 a las 22 51 58" src="https://github.com/user-attachments/assets/0addc4dc-29df-4865-87cf-e6687f332f00">
 
